@@ -1,4 +1,5 @@
 # JoshCotesPortfolio
+# Improve UI design
 
 This project is an online web portfolio project to provide an interactive experience to learn about my engineering qualifications, interests, hobbies, and education. The remainder of this readme is npm boilerplate for running an angular project.
 ## Development server
